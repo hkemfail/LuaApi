@@ -19,7 +19,7 @@ Installation
 
 1. Install :
 
-```$ sudo apt-get update && git clone https://github.com/kekobot/LuaApi && cd LuaApi && sudo chmod 777 install.sh && sudo chmod 777 run.sh && ./install.sh```
+$``` sudo apt-get update && git clone https://github.com/kekobot/LuaApi && cd LuaApi && sudo chmod 777 install.sh && sudo chmod 777 run.sh && ./install.sh```
 
 
 
